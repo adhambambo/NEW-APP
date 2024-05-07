@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![WhatsApp Image 2024-05-07 at 03 52 37_1a544f62](https://github.com/adhambambo/NEW-APP/assets/116437727/c4fd1529-3f0d-47fa-a156-1dc87068b6d8)
 
 This project is a starting point for a Flutter application.
 
